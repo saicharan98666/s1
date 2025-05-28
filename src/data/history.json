@@ -1,28 +1,27 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
+    "role": "NPTEL CERTIFICATIONS",
+    "organisation": "NPTEL_AICTE",
+    "startDate": "Sept, 2024",
+    "endDate": "October,2024",
+    "experiences": ["C,JAVA and DBMS"],
     "imageSrc": "history/google.png"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
+    "role": "CODING ROUND",
+    "organisation": "KITSW",
+    "startDate": "Aug, 2024",
+    "endDate": "Aug, 2024",
+    "experiences": ["Participated in Coding round and got 5th place"],
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "Internship",
+    "organisation": "KITSW",
+    "startDate": "May, 2025",
+    "endDate": "Jun, 2025",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Worked on MERN stack development"
     ],
     "imageSrc": "history/netflix.png"
   }

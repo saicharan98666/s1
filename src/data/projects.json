@@ -1,26 +1,26 @@
 [
   {
-    "title": "Project A",
+    "title": "Internship Portal",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "description": "This is a project where i created an internship portal for my college.",
+    "skills": ["HTML", "CSS", "PHP"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project B",
+    "title": "Amazon clone",  
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
+    "description": "This project includes technologies like HTML,CSS and Javascript.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT"],
     "demo": "https://www.example.com",
     "source": "https://www.github.com"
   },
   {
-    "title": "Project C",
+    "title": "AI chatbot",
     "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
-    "demo": "https://www.example.com",
+    "description": "This is a project where we can chat with ai which is user-friendly.",
+    "skills": ["HTML", "CSS", "JAVASCRIPT","GEMINI API"],
+    "demo": "https://www.example.com",  
     "source": "https://www.github.com"
   }
 ]
